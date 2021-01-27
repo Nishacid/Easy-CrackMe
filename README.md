@@ -6,7 +6,7 @@ They are binary files to be decompiled in order to find the low-level instructio
 
 ## 🛠️ Installation
 ```
-git clone https://github.com/0xx66/Easy-CrackMe.git
+git clone https://github.com/Nishacid/Easy-CrackMe.git
 cd Easy-CrackMe/
 gcc crackme.c -o crackme 
 ```
